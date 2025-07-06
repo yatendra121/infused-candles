@@ -12,7 +12,7 @@ defineProps({
         <div class="row">
 
             <div class="col-md-4 pt-5">
-                <h2 class="h2 text-success border-bottom pb-3 border-light logo">Infused Candles</h2>
+                <h2 class="h2 border-bottom pb-3 border-light logo">Infused Candles</h2>
                 <ul class="list-unstyled text-light footer-link-list">
                     <li>
                         <i class="fas fa-map-marker-alt fa-fw"></i>
@@ -64,7 +64,7 @@ defineProps({
                         <a class="text-light text-decoration-none" target="_blank" href="https://www.instagram.com/infusedcandles.in/"><i class="fab fa-instagram fa-lg fa-fw"></i></a>
                     </li>
                     <li class="list-inline-item border border-light rounded-circle text-center">
-                        <a class="text-light text-decoration-none" target="_blank" href="https://www.threads.net/@infusedcandles.in">@</a>
+                        <a class="text-light text-decoration-none" target="_blank" href="https://www.threads.net/@infusedcandles.in"><i class="fa-brands fa-threads"></i></a>
                     </li>
                 </ul>
             </div>
