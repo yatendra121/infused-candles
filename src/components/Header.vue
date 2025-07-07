@@ -45,16 +45,6 @@ import fav from './../assets/img/icon.png'
           <router-link class="nav-link text-white" to="/contact">Contact</router-link>
         </li>
       </ul>
-
-      <!-- Search bar for mobile -->
-      <div class="d-lg-none p-3">
-        <div class="input-group">
-          <input type="text" class="form-control" placeholder="Search..." />
-          <span class="input-group-text bg-white">
-            <i class="fa fa-fw fa-search text-dark"></i>
-          </span>
-        </div>
-      </div>
     </div>
   </nav>
 
