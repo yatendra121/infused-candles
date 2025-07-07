@@ -29,7 +29,7 @@ defineProps({
             <div class="col-12 col-md-4 p-5 mt-3">
                 <a href="#"><img :src="product3" class="rounded-circle img-fluid border"></a>
                 <h2 class="h5 text-center mt-3 mb-3">Bell Jar Candle</h2>
-                <p class="text-center"><a class="btn btn-success" href="/shop">Go Shop</a></p>
+                <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
             </div>
         </div>
     </section>
